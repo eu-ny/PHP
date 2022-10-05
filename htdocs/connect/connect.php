@@ -1,4 +1,11 @@
 <?php
+    // // 기본 설정
+    // $host = "localhost";
+    // $user = "root";
+    // $pass = "root";
+    // $db = "phpclass";
+    // $connect = new mysqli($host, $user, $pass, $db);
+    // $connect -> set_charset("utf8");
     // 기본 설정
     $host = "localhost";
     $user = "root";
